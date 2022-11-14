@@ -7,3 +7,5 @@
 _Действует от 5 минут до 3 лет_
 
 ![](https://proza.ru/pics/2020/05/30/1241.jpg)
+
+theme:minima
